@@ -1,0 +1,24 @@
+{
+  "name": "remplazar-en-excel",
+  "version": "1.0.0",
+  "description": "Esta api recibe los valores  y los remplaza en un archivo excel almacenado en la misma carpeta del proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairourrego123/Remplazar-en-Excel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairourrego123/Remplazar-en-Excel/issues"
+  },
+  "homepage": "https://github.com/jairourrego123/Remplazar-en-Excel#readme",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "xlsx-template": "^1.4.3"
+  }
+}
